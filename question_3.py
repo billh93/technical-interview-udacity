@@ -70,12 +70,7 @@ G = {'A': [('B', 2)],
      'B': [('A', 2), ('C', 5)],
      'C': [('B', 5)]}
 
-question3(G)
-output -> {'A': [('B', 2)], 'C': [('B', 5)], 'B': [('A', 2), ('C', 5)]}
-
-question3(123)
-output -> Error: g is not a dictionary
-
-question3({})
-output -> Error: g has not enough vertices to form edges
+print question3(G) -> {'A': [('B', 2)], 'C': [('B', 5)], 'B': [('A', 2), ('C', 5)]}
+print question3(123) -> Error: g is not a dictionary
+print question3({})  -> Error: g has not enough vertices to form edges
 """
