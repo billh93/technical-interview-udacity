@@ -1,3 +1,18 @@
+"""
+Explanation
+
+We will traverse through the tree using the top-down approach and with the BST
+properties, the least common ancestor between two nodes will be the first node we
+meet with the value between n1 and n2. We will go left if the current node is greater
+than both n1 and n2, right if the current node is less than both n1 and n2, else
+the node is the least common ancestor.
+ 
+Worse case is O(log(n))
+Time complexity is O(log(n))
+Space complexity is O(1)
+"""
+
+
 class Tree_Node(object):
     def __init__(self, data):
         self.data = data
