@@ -1,5 +1,5 @@
 ## Overview
-Final Udacity Project in a mock technical interview format that deals with various algorithms and data structure problems. Answers are in their own individual files (ex question1.py)...
+Final Udacity Project in a mock technical interview format that deals with various algorithms and data structure problems. Answers and explanations are in their own individual files (ex question_1.py)...
 
 ## Interview Questions
 1. Given two strings s and t, determine whether some anagram of t is a substring of s. For example: if s = "udacity" and t = "ad", then the function returns True. Your function definition should look like: question1(s, t) and return a boolean True or False.
