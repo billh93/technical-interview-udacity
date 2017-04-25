@@ -3,9 +3,8 @@ Explanation
 
 We can check whether two strings are anagram by comparing the characters from both strings and
 if length of both strings are the same, then the two strings are anagram. We can first initialize a list
-to store the original string in that list and then check with every possible consecutive substring in t.
-If any set is an anagram of t, then we return True, else False.
-Comparing counts of all characters will can be done in constant time since there are only limited amount of characters to check.
+to store the original string in that list and then check with every possible consecutive substring in s.
+If any set is an anagram of s, then we return True, else False.
 
 Worst case is O(len(s)
 Time complexity is O(len(s))

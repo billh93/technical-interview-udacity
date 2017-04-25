@@ -1,3 +1,18 @@
+"""
+Explanation
+
+We first get the length of the string and store it in base_len then store we store that
+into another variable called search_len. With this we do a while loop to check
+if search_len is greater than 1. The end result we should with the program is
+get the reversal of that string if not we should get some omitted characters or
+an error message.
+
+Worse case is O(n)
+Time complexity is O(n)
+Space complexity is O(1)
+"""
+
+
 def question2(a):
     # Gets length of string
     base_len = len(a)
