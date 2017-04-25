@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="884d29fb-f070-49d9-84cc-0c99bec6215f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/question_1.py" afterPath="$PROJECT_DIR$/question_1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/question_2.py" afterPath="$PROJECT_DIR$/question_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/question_3.py" afterPath="$PROJECT_DIR$/question_3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,18 +20,28 @@
       <file leaf-file-name="question_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="question_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="question_3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/question_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -53,12 +62,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/question_3.py" />
         <option value="$PROJECT_DIR$/question_4.py" />
         <option value="$PROJECT_DIR$/question_5.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/question_1.py" />
         <option value="$PROJECT_DIR$/question_2.py" />
+        <option value="$PROJECT_DIR$/question_3.py" />
       </list>
     </option>
   </component>
@@ -413,14 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/question_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/question_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -444,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/question_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -454,6 +455,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
           <folding />
         </state>
       </provider>

@@ -1,11 +1,26 @@
+"""
+Explanation
+
+Theirs a classic algorithm called Kruskal's algorithm that was extensively used
+to solve this problem. The main concept is to sort the edges by its own weight and
+start including the edge without causing a cycle in the graph. One way to make sure
+there are no cycles in the graph is by keeping track of each vertice in a list of sets.
+If the new edge will connect two vertices within the same set, we will not include it.
+Else, we include the set and take union of the sets.
+
+Worst case is O(E*V)
+Time complexity is O(E*V)
+Space complexity is O(E)
+"""
+
+
 def question3(g):
     # Make sure g is a dictionary
     if not isinstance(g, dict):
-        return "Error: G is not dictionary"
-
+        return "Error: g is not dictionary"
     # Make sure g has more than one node
     if len(g) < 2:
-        return "Error: G has not enough vertices to form edges"
+        return "Error: g has not enough vertices to form edges"
 
     # Get a set of vertices
     vertices = g.keys()
