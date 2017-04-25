@@ -1,3 +1,17 @@
+"""
+Explanation
+
+We will traverse through the linked list twice to solve this problem.
+The first time we traverse through the linked list is to get its length. Then we can
+determine how many elements to traverse on the second pass to get the mth element
+from the back.
+
+Worse case is O(n)
+Time complexity is O(n)
+Space complexity is O(1)
+"""
+
+
 class Node(object):
 	def __init__(self, data):
 		self.data = data
