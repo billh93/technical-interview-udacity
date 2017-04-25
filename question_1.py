@@ -11,15 +11,12 @@ def question1(s, t):
     #  Iterates through every character of the substring
     for char1 in t:
         found = False
-        pop_index = None
         for index, char2 in enumerate(char_list):
             # Compares the character from char_list to the substring
             if char1 == char2:
                 found = True
-                pop_index = index
         if not found:
             return False
-        popped = char_list.pop(pop_index)
     return True
 
 """
