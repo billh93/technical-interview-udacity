@@ -22,10 +22,7 @@ def question1(s, t):
 """
 Test Cases
 
-Case 1: question1("udacity", "ad") -> True
-String with 2 characters reversed from order in S
-Case 2: question1("udacity", "") -> True
-Empty string.
-Case 3: question1("ad", "udacity") -> False
-String t's length is greater than string S.
+print question1("udacity", "ad") -> True
+print question1("udacity", "") -> True
+print question1("ad", "udacity") -> False
 """

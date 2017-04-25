@@ -21,7 +21,7 @@ print question2("z")
 """
 Test Cases
 
-Case 1: question2("racecar") -> racecar
-Case 2: question2("") -> " "
-Case 3: question2("z") -> Please pick a string with more letters
+print question2("racecar") -> racecar
+print question2("") -> " "
+print question2("z") -> Please pick a string with more letters
 """
