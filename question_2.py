@@ -16,7 +16,6 @@ def question2(a):
     if search_len == 1:
         return "Please pick a string with more letters"
 
-print question2("z")
 
 """
 Test Cases

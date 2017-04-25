@@ -19,6 +19,7 @@ def question1(s, t):
             return False
     return True
 
+
 """
 Test Cases
 

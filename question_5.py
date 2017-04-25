@@ -58,7 +58,7 @@ def question5(ll, m):
 
 
 """
-Test Case
+Test Cases
 
 n1, n2, n3, n4, n5 = Node(1), Node(2), Node(3), Node(4), Node(5)
 n4.next = n5
