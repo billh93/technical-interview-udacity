@@ -9,7 +9,7 @@ If the new edge will connect two vertices within the same set, we will not inclu
 Else, we include the set and take union of the sets.
 
 Worst case is O(E*V)
-Time complexity is O(E*V)
+Time complexity is O(ElogE)
 Space complexity is O(E)
 """
 
